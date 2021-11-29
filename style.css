@@ -1,0 +1,51 @@
+﻿body {
+    background-image: url(https://target.scene7.com/is/image/Target/GUEST_51caaeb9-f89c-4582-902d-bb66591497c9?wid=253&hei=253&qlt=80&fmt=webp);
+}
+h1 {
+    text-align: center;
+    color: black;
+    background-color: linen;
+}
+
+h3{
+    color: black;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    background-color: linen;
+    padding: 20px;
+    color:black;
+    display: block;
+    width: 150px;
+    margin: 25px;
+    border-radius: 20px;
+    text-align: left;
+    float: left;
+}
+
+
+
+    a:hover {
+        text-decoration: none;
+    }
+
+    a:active {
+        text-decoration: none;
+    }
+
+    a:visited {
+        text-decoration: none;
+    }
+
+#links {
+    background-color:lightsteelblue;
+    float: left;
+    color: black;
+}
+h5{
+    color:black;
+    font:bold;
+    font-size: 100%;
+}
