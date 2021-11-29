@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css"/>
+    <meta charset='utf-8'>
+    <title> Emery's Personal Website </title>
 
-You can use the [editor on GitHub](https://github.com/emeryhaller1/emeryhaller1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
+<body>
+    <div class="Main">
+         <h1 style="font-size:300%"> Emery Haller</h1>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <h3>Introduction</h3>
+        <p>Welcome to my personal website! My name is Emery Haller and the purpose of this site is to provide a glimpse into what I have learned so far in my education.</p>
+        <p>Click on each bubbles below to navigate my website!</p>
+        <p>best,</p>
+        <h5>Emery</h5>
 
-```markdown
-Syntax highlighted code block
+    </div>
 
-# Header 1
-## Header 2
-### Header 3
+        <h3>Navigation</h3>
+        <div id="links">
+               
+                <ul >
+                    
+                        <a target="_blank" href=file:///C:/Users/halle/source/repos/emeryhaller1/emeryhaller1.github.io/about.html />About Emery</a>
+                  
+                        <a target="_blank" href=file:///C:/Users/halle/source/repos/emeryhaller1/emeryhaller1.github.io/skillsets.html />Skillsets</a>
+                  
+                        <a target="_blank" href=file:///C:/Users/halle/source/repos/emeryhaller1/emeryhaller1.github.io/projects.html />Projects</a>
+                        
+                        <a target="_blank" href=file:///C:/Users/halle/source/repos/emeryhaller1/emeryhaller1.github.io/home.html />Home</a>
+                    
+                </ul>
 
-- Bulleted
-- List
+           
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emeryhaller1/emeryhaller1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        </div>
+</body>
+</html>
